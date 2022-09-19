@@ -68,3 +68,7 @@ Host: localhost
 ```
 It responds with
 200 ok
+
+#### Extra Notes
+In this course the author has also shown how to use netcat and curl.
+The author also showed how to interact with text based protocols such as http, smtp and irc.

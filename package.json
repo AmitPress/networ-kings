@@ -1,0 +1,24 @@
+{
+  "name": "networkings",
+  "version": "0.9.0",
+  "description": "A package on networking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitPress/networ-kings.git"
+  },
+  "keywords": [
+    "Networking"
+  ],
+  "author": "Amit Malaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmitPress/networ-kings/issues"
+  },
+  "homepage": "https://github.com/AmitPress/networ-kings#readme"
+}

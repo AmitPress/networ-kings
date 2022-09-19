@@ -58,7 +58,7 @@ It may reply with a status 200
 Here I have written a simple http server with http node module.
 Which just responds `helloworld` and then close the server.
 ```
-node excercise-one.js
+node simple_http_server.js
 ```
 Now make a request with netcat
 ```
